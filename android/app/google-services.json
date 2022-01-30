@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "672422293166",
+    "firebase_url": "https://msb-jccf-default-rtdb.firebaseio.com",
+    "project_id": "msb-jccf",
+    "storage_bucket": "msb-jccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672422293166:android:4347efa0288278cb27073f",
+        "android_client_info": {
+          "package_name": "com.authenetication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672422293166-r1dulacjckhsp50gfqv93eccg1cccpmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl50FE8GXbFV48CQc79_KrBDbALnxETkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672422293166-r1dulacjckhsp50gfqv93eccg1cccpmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672422293166:android:18aeeb3dc5a9bddb27073f",
+        "android_client_info": {
+          "package_name": "com.mbnmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672422293166-r1dulacjckhsp50gfqv93eccg1cccpmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl50FE8GXbFV48CQc79_KrBDbALnxETkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672422293166-r1dulacjckhsp50gfqv93eccg1cccpmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
